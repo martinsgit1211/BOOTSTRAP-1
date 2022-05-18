@@ -1,0 +1,67 @@
+.navbar-dark .navbar-brand{
+    color: rgb(121, 243, 102);
+    margin-left: 5rem;
+}
+.navbar-expand-lg .navbar-collapse{
+    justify-content: space-around;
+}
+.nav-link.active{
+    margin-right: 5rem;
+}
+.nav-link.active1{
+    margin-left: 4rem;
+}
+#navbarDropdownMenuLink.nav-link.dropdown-toggle{
+    margin: 0 5rem 0 3rem ;
+}
+.hero-section {
+    padding: 10rem 0rem 10rem 0rem;
+    background-image: url(./src/background-img4.jpg);
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 3.5rem;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 0 0 0 0;
+    font-size: 1.2rem;
+}
+.p3 {
+    padding-bottom: 5rem;
+}
+.btn{
+    width: 10rem;
+}
+.p1 {
+    padding-top: 3rem;
+}
+.mx-auto{
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: grid;
+    justify-content: center;
+}
+.img-fluid {
+    padding-bottom: 1.5rem;
+}
+h2 {
+    padding: 3rem 0rem 2rem 0rem;
+    font-size: 3rem;
+}
+.services {
+    background-color: rgb(228, 245, 239);
+}
+.lorem{
+    color: black;
+    padding-bottom: 30px;
+}
+h4{
+    font-size: 1rem;
+}
